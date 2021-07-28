@@ -1,0 +1,19 @@
+.color{
+    background-color: rgba(42, 78, 92, 1);
+}
+.image-gray{
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+.client{
+    color: rgba(231, 111, 81, 1);
+}
+.fa-star.filled{
+    color: rgba(231, 111, 81, 1);
+}
+.fa-star.empty{
+    color:  #AEAEAE;
+}
+.radious img{
+    border-radius: 20%;
+}
